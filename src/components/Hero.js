@@ -27,7 +27,7 @@ const Hero = () => {
                     </button>
                 </div>
                 <Roll duration={4000}>
-                    <div>
+                    <div className='pr-[2rem]'>
                         <img src={hero} alt="/" />
                     </div>
                 </Roll>
